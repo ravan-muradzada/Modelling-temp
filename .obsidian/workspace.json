@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3ee8eaccaf52b847",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0788a7b5eba54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e80970af02ceef11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "325a2cad2e252791",
+    "type": "split",
+    "children": [
+      {
+        "id": "af57ed3f1c090de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88599b4013739d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb2d9dee1661dbbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb9dc7aa2d1697e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.500732421875
+  },
+  "right": {
+    "id": "07b4b58b0b483570",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fabda984b112514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13eb435c6eff97e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07.Simplex Method.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 07.Simplex Method"
+            }
+          },
+          {
+            "id": "3046029c721d7ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07.Simplex Method.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 07.Simplex Method"
+            }
+          },
+          {
+            "id": "13dac2b9a832a86b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84d51781eced9d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07.Simplex Method.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 07.Simplex Method"
+            }
+          },
+          {
+            "id": "031fddd102039c9d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b88599b4013739d0",
+  "lastOpenFiles": [
+    "Final/imgFinal",
+    "Final/imgFinal/1.png",
+    "Midterm/10.Dual Problem.md",
+    "Final/1.md",
+    "Final",
+    "Midterm/11.Convexity.md",
+    "Midterm/07.Simplex Method.md",
+    "Midterm",
+    "Midterm/06.The Table method.md",
+    "Midterm/05.Existance of optimal solution (in graphical method).md",
+    "Midterm/04.Graph of system of linear inequalities.md",
+    "Midterm/03.Graph of linear inequalities.md",
+    "Midterm/02.Modelling of verbal problems.md",
+    "Midterm/01.Introduction to Linear Programming.md",
+    "Midterm/09.Entering and exiting variables in simplex method.md",
+    "Midterm/08.Extra info for Simplex method.md",
+    "Midterm/img/matrix_in_simplex_method_3.png",
+    "Midterm/img/matrix_in_simplex_method_2.png",
+    "Midterm/img/system_in_simplex_method.png",
+    "Midterm/img/matrix_in_simplex_method_1.png",
+    "Pasted image 20250301020743.png",
+    "Pasted image 20250301020743 1.png",
+    "Midterm/img/matrix_from_simplex_method.png",
+    "Midterm/img/solved_table.png",
+    "Midterm/img/graphOf_systemOf_linear_equalities.png",
+    "Midterm/img"
+  ]
+}

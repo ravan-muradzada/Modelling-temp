@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "bca3acddaddf1219",
+    "type": "split",
+    "children": [
+      {
+        "id": "de502f123a7c6faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ccce736b06a6cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Nonlinear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Nonlinear"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eaef36e2b1f4e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5719677271bab795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4939799f2935a56b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e00f4af26995818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b92e8c90511af8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2507b4f00069acbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "987716d6df7d9b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd3d62dfb9bc212",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02.Nonlinear.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02.Nonlinear"
+            }
+          },
+          {
+            "id": "2c6dac09b49d1bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02.Nonlinear.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02.Nonlinear"
+            }
+          },
+          {
+            "id": "8231cb65469f769b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a94b4169996a8c42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02.Nonlinear.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02.Nonlinear"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ccce736b06a6cf8",
+  "lastOpenFiles": [
+    "imgFinal/3 1.png",
+    "02.Nonlinear.md",
+    "01.Newton.md",
+    "imgFinal/7.png",
+    "imgFinal/6.png",
+    "imgFinal/5.png",
+    "imgFinal/4.png",
+    "imgFinal/3.png",
+    "imgFinal/2.png"
+  ]
+}
