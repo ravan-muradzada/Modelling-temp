@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.With inequality constraint.md",
+                "file": "02.Nonlinear without constraint.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.With inequality constraint"
+              "title": "02.Nonlinear without constraint"
             }
           }
         ]
@@ -170,13 +170,13 @@
   },
   "active": "7ccce736b06a6cf8",
   "lastOpenFiles": [
-    "02.Nonlinear without constraint.md",
+    "01.Newton.md",
     "04.With inequality constraint.md",
+    "02.Nonlinear without constraint.md",
     "03.With equality constraint.md",
     "imgFinal/17.png",
     "imgFinal/16.png",
     "imgFinal/15.png",
-    "01.Newton.md",
     "imgFinal/14.png",
     "imgFinal/14.png",
     "Pasted image 20250427163849.png",
