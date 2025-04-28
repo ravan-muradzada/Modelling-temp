@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "bca3acddaddf1219",
+    "id": "e701b61e8a724fb9",
     "type": "split",
     "children": [
       {
-        "id": "de502f123a7c6faf",
+        "id": "578f5f4b9234dba7",
         "type": "tabs",
         "children": [
           {
-            "id": "7ccce736b06a6cf8",
+            "id": "ea4aaec6dee9376d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.Sufficient and necessary conditions.md",
+                "file": "10.Dual Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.Sufficient and necessary conditions"
+              "title": "10.Dual Problem"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3eaef36e2b1f4e0d",
+    "id": "d76ab54853f9f140",
     "type": "split",
     "children": [
       {
-        "id": "5719677271bab795",
+        "id": "66ef4f8e2863eeba",
         "type": "tabs",
         "children": [
           {
-            "id": "4939799f2935a56b",
+            "id": "682cc1bf3db9af3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "8e00f4af26995818",
+            "id": "09e6e16ca4a1297b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "2b92e8c90511af8d",
+            "id": "c4a9b2220b7adfb2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "2507b4f00069acbb",
+    "id": "56af686fedafe036",
     "type": "split",
     "children": [
       {
-        "id": "987716d6df7d9b42",
+        "id": "20c82701525543b1",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd3d62dfb9bc212",
+            "id": "ac2582f670c0f22e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Nonlinear.md",
+                "file": "10.Dual Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02.Nonlinear"
+              "title": "Backlinks for 10.Dual Problem"
             }
           },
           {
-            "id": "2c6dac09b49d1bfd",
+            "id": "896e1a19a4060701",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Nonlinear.md",
+                "file": "10.Dual Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02.Nonlinear"
+              "title": "Outgoing links from 10.Dual Problem"
             }
           },
           {
-            "id": "8231cb65469f769b",
+            "id": "edd05714546da093",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "a94b4169996a8c42",
+            "id": "111a199d990ad97a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Nonlinear.md",
+                "file": "10.Dual Problem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02.Nonlinear"
+              "title": "Outline of 10.Dual Problem"
             }
           }
         ]
@@ -168,24 +168,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4939799f2935a56b",
-  "lastOpenFiles": [
-    "imgFinal/25.png",
-    "imgFinal/24.png",
-    "imgFinal/23.png",
-    "Pasted image 20250429021621.png",
-    "Pasted image 20250429020944.png",
-    "06.Sufficient and necessary conditions.md",
-    "imgFinal/22.png",
-    "02.Nonlinear without constraint.md",
-    "05.Newton and Jacobian.md",
-    "imgFinal/21.png",
-    "imgFinal/20.png",
-    "imgFinal/19.png",
-    "imgFinal/18.png",
-    "03.With equality constraint.md",
-    "01.Newton.md",
-    "04.With inequality constraint.md",
-    "imgFinal/17.png"
-  ]
+  "active": "ea4aaec6dee9376d",
+  "lastOpenFiles": []
 }
